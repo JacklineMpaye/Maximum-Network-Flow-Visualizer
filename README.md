@@ -1,4 +1,4 @@
-# Group 8 Project
+
 
 ## Overview
 This repository contains the implementation and visualization of the Ford-Fulkerson algorithm for finding the maximum flow in a network. The project includes both Java and Python implementations, along with detailed documentation and visualizations of the algorithm's execution.
